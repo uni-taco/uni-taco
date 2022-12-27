@@ -1,0 +1,5 @@
+- 👋 Hi, I’m AlphaTacos aka @uni-taco
+- 👀 I’m interested in GameDevelopment and Web Development
+- 🌱 I’m currently learning C# and Gdscript
+- 💞️ I’m looking to collaborate on Game Projects
+- 📫 How to reach me "Not Interested"
